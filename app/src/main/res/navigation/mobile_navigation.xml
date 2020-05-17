@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.movietime.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_favorites"
+        android:name="com.example.movietime.ui.favorites.FavoritesFragment"
+        android:label="@string/favorites"
+        tools:layout="@layout/fragment_favorites" />
+
+    <fragment
+        android:id="@+id/nav_booked_movies"
+        android:name="com.example.movietime.ui.booked_movies.BookedMoviesFragment"
+        android:label="@string/booked_movies"
+        tools:layout="@layout/fragment_booked_movies" />
+
+    <fragment
+        android:id="@+id/nav_update"
+        android:name="com.example.movietime.ui.booking_update.BookingUpdateFragment"
+        android:label="@string/update"
+        tools:layout="@layout/fragment_booking_update" />
+
+    <fragment
+        android:id="@+id/nav_cancel"
+        android:name="com.example.movietime.ui.booking_cancel.BookingCancelFragment"
+        android:label="@string/cancel"
+        tools:layout="@layout/fragment_booking_cancel" />
+
+    <fragment
+        android:id="@+id/nav_details"
+        android:name="com.example.movietime.ui.booking_details.BookingDetailsFragment"
+        android:label="@string/details"
+        tools:layout="@layout/fragment_booking_details" />
+</navigation>

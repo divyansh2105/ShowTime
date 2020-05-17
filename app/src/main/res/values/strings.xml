@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">ShowTime</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="favorites">Favorites</string>
+    <string name="booked_movies">Booked Movies</string>
+    <string name="booking_details">Booking Details</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+
+    <string name="main_no_network">Bad or no Network!\n\nThis application requires network connection</string>
+    <string name="main_no_network_try_again">Try Again</string>
+    <string name="main_no_network_close">Close App</string>
+
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGl2eWFuc2gyMTA1IiwiYSI6ImNrOTgxbzBvYjAyaG0zbms0cGhncnIzOW0ifQ.nL52CcAvT_o5tsiFFHRfXA</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_receipt">ReceiptActivity</string>
+    <string name="title_activity_google_sign_in">GoogleSignInActivity</string>
+    <string name="signout">Signout</string>
+    <string name="title_activity_receipt_from_booking_details">ReceiptFromBookingDetailsActivity
+    </string>
+    <string name="title_activity_booking_details">BookingDetailsActivity</string>
+    <string name="title_activity_booking_delete">BookingDeleteActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="receipt">Receipt</string>
+    <string name="booking_cancel_title">&#160;&#160;Booking Cancel</string>
+    <string name="home">Home</string>
+    <string name="details">Details</string>
+    <string name="booking_dialog1">Enter the phone number you will be using for Bookings with email id:</string>
+    <string name="booking_dialog2">Required Information</string>
+    <string name="set_visibility">Set Visibility</string>
+    <string name="booking_dialog3">Your contacts can view your booking</string>
+    <string name="global">Global</string>
+    <string name="ok">OK</string>
+    <string name="divyansh_dahiya2105_gmail_com">divyansh.dahiya2105@gmail.com</string>
+    <string name="_9871806344">9871806344</string>
+    <string name="content">content</string>
+    <string name="booking_cancel1">Enter Booking Id you wish to cancel</string>
+    <string name="booking_cancel2">Refer to Receipt for Booking Id</string>
+    <string name="enter_booking_id">Enter Booking Id</string>
+    <string name="delete">DELETE</string>
+    <string name="find_by_phone_no">&#160;&#160;Find By Phone No</string>
+    <string name="find_by_email">&#160;&#160;Find By Email</string>
+    <string name="booking_details1">Search all GLOBAL bookings of your contacts</string>
+    <string name="enter_phone_no">Enter phone no</string>
+    <string name="find">FIND</string>
+    <string name="booking_id">Booking Id:&#160;&#160;</string>
+    <string name="cinema_address">Cinema Address</string>
+    <string name="show_date">Show Date</string>
+    <string name="show_time">Show Time</string>
+    <string name="title">Title</string>
+    <string name="phone">Phone:&#160;&#160;</string>
+    <string name="seat_s">Seat(s):&#160;&#160;&#160;</string>
+    <string name="amount">Amount</string>
+    <string name="_150_per_ticket">(150 per ticket):&#160;</string>
+    <string name="required_information">Required Information</string>
+    <string name="account_dialog1">Enter the phone number you will be using for Bookings with email id:</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="account_dialog2">You CANNOT change this number later</string>
+    <string name="cinemas_showing">Cinemas Showing</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="recommended">Recommended</string>
+    <string name="contacts_watching">Contacts Watching</string>
+    <string name="book_now">Book Now</string>
+    <string name="screen">Screen</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_7">7</string>
+    <string name="_11">11</string>
+    <string name="_15">15</string>
+    <string name="_8">8</string>
+    <string name="_4">4</string>
+    <string name="_12">12</string>
+    <string name="_16">16</string>
+    <string name="_5">5</string>
+    <string name="_9">9</string>
+    <string name="_13">13</string>
+    <string name="_17">17</string>
+    <string name="_6">6</string>
+    <string name="_10">10</string>
+    <string name="_14">14</string>
+    <string name="_18">18</string>
+    <string name="booked">Booked</string>
+    <string name="friends">Friends</string>
+    <string name="available">Available</string>
+    <string name="cinema">Cinema</string>
+    <string name="confirm_booking">CONFIRM BOOKING</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="address">Address</string>
+    <string name="todo">TODO</string>
+    <string name="widget">Widget</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/favorites" />
+
+        <item
+            android:id="@+id/nav_details"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/details" />
+        <item
+            android:id="@+id/nav_cancel"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/cancel" />
+
+    </group>
+
+
+
+</menu>
