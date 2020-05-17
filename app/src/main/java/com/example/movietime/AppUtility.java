@@ -2,7 +2,7 @@ package com.example.movietime;
 
 public class AppUtility {
 
-    private static final String API_KEY="ba1cbd940b7f3b9597fa89a52e81f3a8";
+    private static final String API_KEY="/*your key*/";
 
     private static final String BASE_URL_UPCOMING="https://api.themoviedb.org/3/movie/upcoming";
 
