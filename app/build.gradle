@@ -5,9 +5,9 @@ android {
     signingConfigs {
         release {
             keyAlias 'key0'
-            keyPassword 'divyansh123'
+            keyPassword '/*your password*/'
             storeFile file('newkeystore.jks')
-            storePassword 'divyansh123'
+            storePassword '/*your password*/'
         }
     }
     compileSdkVersion 29
