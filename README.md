@@ -7,5 +7,4 @@ screening them and their distances and offers an
 interactive UI for seat booking. Other features: Favorites,
 viewing and cancelling bookings, receipt and a widget
 
-❮img src="Screenshot_20200526-120506_ShowTime.jpg" ❯
-
+<img src="Screenshot_20200526-120506_ShowTime.jpg" width="200" />
